@@ -1,6 +1,12 @@
 # JavaSpot Learning Platform
 
-This project is developed as a university assignment to help users learn the Java programming language through interactive sections.
+- This project is developed as a university assignment to help users learn the Java programming language through interactive sections.
+
+- The [insert_data.sql](javaspot/insert_data.sql) file contains sample data that can be inserted to avoid the need to create your own manually.
+
+- The [videos directory](javaspot/src/main/resources/videos) contains two sample videos for the _"Getting Started with Java Programming"_ chapter (based on the sample data referenced above):
+  - The _"Your First Java Program"_ section.
+  - The _"Data Types and Variables"_ section.
 
 ## Features
 
@@ -31,6 +37,3 @@ This project is developed as a university assignment to help users learn the Jav
 ![end-exam](https://github.com/user-attachments/assets/2bdc9029-1031-414d-91ef-f0a1c6186e32)
 
 ![progress-page](https://github.com/user-attachments/assets/7db40340-9825-49fb-a5ee-e54eafb8029a)
-
-
-
