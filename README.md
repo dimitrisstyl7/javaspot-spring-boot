@@ -1,7 +1,7 @@
 # JavaSpot Learning Platform
 
 ## [University of Piraeus](https://www.unipi.gr/en/home/) | [Department of Informatics](https://cs.unipi.gr/en/)
-**Course**: Educational Software
+**BSc course**: Educational Software
 
 **Semester**: 8
 
@@ -52,7 +52,7 @@
 </table>
 
 ## Acknowledgments
-This project was developed as part of the "Educational Software" course at the University of Piraeus. Contributions and feedback are always welcome!
+This project was developed as part of the "Educational Software" BSc course at the University of Piraeus. Contributions and feedback are always welcome!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
